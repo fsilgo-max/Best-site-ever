@@ -45,7 +45,7 @@ h1 {
 marquee {
     font-weight: bold;
     color: white;
-    background-color: black;
+    background-color: red;
     border: 2px solid lime;
 }
 .subtitle {
@@ -161,4 +161,5 @@ footer {
     color: lime;
     font-family: monospace;
     font-size: 1.5em;
+
 }
